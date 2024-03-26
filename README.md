@@ -1,6 +1,8 @@
 # myapp
 
-A new Flutter project.
+A new Flutter project built using Project IDX.
+
+Following YouTube tutorial by Rivaan Ranawat.
 
 ## Getting Started
 
